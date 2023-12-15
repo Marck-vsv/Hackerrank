@@ -14,6 +14,6 @@ if __name__ == '__main__':
         product = a * b
         return product
         
-    print(soma(a, b))
+    print(summ(a, b))
     print(subt(a, b))
     print(product(a, b))
